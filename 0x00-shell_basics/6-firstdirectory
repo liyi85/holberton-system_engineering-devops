@@ -1,2 +1,2 @@
-#!/bin/bash 
-touch /tmp/holberton
+#!/bin/bash
+mkdir /tmp/holberton/
